@@ -344,7 +344,6 @@ body {
 .input-wrapper input::placeholder {
   color: #d9bb7a;
   letter-spacing: 0.2px;
-
 }
 
 .input-wrapper::before {
@@ -530,7 +529,7 @@ body {
 
 @media screen and (max-width: 444px) {
   .header-action {
-    padding: 8px 12px;
+    padding: 12px 16px;
   }
 
   .header-action .logo {
