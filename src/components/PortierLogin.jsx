@@ -5,8 +5,8 @@ export default function PortierLogin() {
   const [role, setRole] = useState("guest");
 
   return (
-    <div>
-      <div className="container">
+    <div className="container">
+      <div className="content-wrapper">
         <div className="header-action">
           <div className="logo">
             <div className="p">P</div>
